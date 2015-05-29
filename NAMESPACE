@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import(Matrix)
+importFrom(mvtnorm, rmvnorm)
+importFrom(psych, phi2tetra)
+importFrom(GenOrd, ordcont)
+import(corpcor)
