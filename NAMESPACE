@@ -1,5 +1,7 @@
 exportPattern("^[[:alpha:]]+")
 import(Matrix)
+importFrom("stats", "cor", "dnorm", "pnorm", "qnorm", "qpois",
+             "rbinom", "rnorm", "rpois", "runif")
 importFrom(mvtnorm, rmvnorm)
 importFrom(psych, phi2tetra)
 importFrom(GenOrd, ordcont)

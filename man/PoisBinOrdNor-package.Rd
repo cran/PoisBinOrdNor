@@ -9,8 +9,8 @@
 \tabular{ll}{
 Package: \tab PoisBinOrdNor\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2015-05-18\cr
+Version: \tab 1.1\cr
+Date: \tab 2016-02-14\cr
 License: \tab GPL (>= 2)\cr
 }PoisBinOrdNor package consists of ten functions. The function \code{\link{validation_specs}} validates the specificed quantities to avoid obvious specification errors. 
 The functions \code{\link{corr.nn4bb}}, \code{\link{corr.nn4bn}}, \code{\link{corr.nn4on}}, \code{\link{corr.nn4pbo}}, \code{\link{corr.nn4pn}}, and \code{\link{corr.nn4pp}} 
@@ -25,7 +25,7 @@ Yiran Hu, Hakan Demirtas
 
 Maintainer: Yiran Hu <yhu50@uic.edu>
 }
-\references{Amatya, A. & Demirtas, H. (2016). Simultaneous generation of multivariate mixed data with Poisson and normal marginals. Journal of Statistical Computation and Simulation. In press. 
+\references{Amatya, A. & Demirtas, H. (2015). Simultaneous generation of multivariate mixed data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, Volume 85, Issue 15, 3129-3139.
 
 Demirtas, H. & Hedeker, D. (2011). A practical way for computing approximate lower and upper correlation bounds. The American Statistician, Volume 65(2), 104-109. 
 

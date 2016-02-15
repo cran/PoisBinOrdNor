@@ -66,6 +66,26 @@ validation_specs(num_pois, num_bin, num_ord, num_norm, corr.mat, pbin, pord, lam
 nor.mean=NULL, nor.var=NULL)
 
 
+# An example with an invalid target correlation matrix (bound violation).
+num_pois<-1
+num_bin<-2
+num_ord<-2
+num_norm<-1
+lamvec=c(1)
+pbin=c(0.3, 0.7)
+pord=list(c(0.2, 0.5), c(0.4, 0.7, 0.8))
+nor.mean=2.1
+nor.var=0.75
+M=c(-0.35, 0.26, 0.34, 0.09, 0.14, 0.12, 0.30, -0.02, 0.17, 0.29, -0.04, 0.19, 
+0.10, 0.35, 0.39)
+N=diag(6)
+N[lower.tri(N)]=M
+TV=N+t(N)
+diag(TV)<-1
+validation_specs(num_pois, num_bin, num_ord, num_norm, corr.mat=TV, pbin, pord,
+lamvec, normean, norvar) 
+
+
 # An example with a non-positive definite correlation matrix.
 pbin=c(0.3, 0.7)
 TV1=TV

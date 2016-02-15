@@ -67,7 +67,7 @@ N=diag(6)
 N[lower.tri(N)]=M
 TV=N+t(N)
 diag(TV)<-1
-intmat<-intermatnew(num_pois,num_bin,num_ord,num_norm,corr_mat=TV,pbin,pord,lamvec,
+intmat<-intermat(num_pois,num_bin,num_ord,num_norm,corr_mat=TV,pbin,pord,lamvec,
 nor.mean,nor.var)
 
 genPBONdata(ss,num_pois,num_bin,num_ord,num_norm,intmat,lamvec,pbin,pord,nor.mean,nor.var)
