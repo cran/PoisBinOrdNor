@@ -16,8 +16,9 @@ corr.nn4pbo(lam, p, PO.cor)
 \value{ A tetrachoric correlation coefficient.}
 
 \references{
-Amatya, A. & Demirtas, H. (2015). Simultaneous generation of multivariate mixed data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, Volume 85, Issue 15, 3129-3139.
-Yahav, I. & Shmueli, G. (2012). On generating multivariate Poisson data in management science applications. Applied Stochastic Models in Business and Industry, Volume 28(1), 91-102. 
+Amatya, A. & Demirtas, H. (2015). Simultaneous generation of multivariate mixed data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, 85(15), 3129-3139.
+
+Yahav, I. & Shmueli, G. (2012). On generating multivariate Poisson data in management science applications. Applied Stochastic Models in Business and Industry, 28(1), 91-102. 
 }
 
 \examples{

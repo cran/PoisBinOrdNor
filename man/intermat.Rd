@@ -25,14 +25,13 @@
 
 
 \references{
-Demirtas, H. & Hedeker, D. (2011). A practical way for computing approximate lower and upper correlation bounds. American Statistician, Volume 65, No 2, 104-109.
+Barberio, A. and Ferrari, P.A. (2015). GenOrd: Simulation of discrete random variables with given correlation matrix and marginal distributions. https://cran.r-project.org/web/packages/GenOrd/index.html.
 
-Ferrari, P.A. and Barberio, A. (2012). Simulating ordinal data. Multivariate Behavioral Research, 47(4), 566-589.
-
-Barberio, A. and Ferrari, P.A. (2014). GenOrd: Simulation of ordinal and discrete variables with given correlation matrix and marginal distributions.
-http://www.cran.r-project.org/web/packages/GenOrd.
+Demirtas, H. & Hedeker, D. (2011). A practical way for computing approximate lower and upper correlation bounds. American Statistician, 65(2), 104-109.
 
 Demirtas, H. & Hedeker, D. (2016). Computing the point-biserial correlation under any underlying continuous distribution. Forthcoming in Communications in Statistics--Simulation and Computation.
+
+Ferrari, P.A. and Barberio, A. (2012). Simulating ordinal data. Multivariate Behavioral Research, 47(4), 566-589.
 }
 
 

@@ -12,7 +12,7 @@
 \value{A tetrachoric correlation coefficient.}
 
 \references{
-Demirtas, H. & Doganay, B. (2012). Simultaneous generation of binary and normal data with specified marginal and association structures. Journal of Biopharmaceutical Statistics, Volume 22, Issue 2, 223-236.
+Demirtas, H. & Doganay, B. (2012). Simultaneous generation of binary and normal data with specified marginal and association structures. Journal of Biopharmaceutical Statistics, 22(2), 223-236.
 }
 
 \examples{

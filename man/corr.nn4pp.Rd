@@ -12,7 +12,7 @@ corr.nn4pp(lambda1, lambda2, PP.cor)
 \value{Correlation of underlying bivariate normal data.}
 
 \references{
-Amatya, A. & Demirtas, H. (2015). Simultaneous generation of multivariate mixed data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, Volume 85, Issue 15, 3129-3139.
+Amatya, A. & Demirtas, H. (2015). Simultaneous generation of multivariate mixed data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, 85(15), 3129-3139.
 }
 
 \examples{
