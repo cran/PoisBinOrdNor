@@ -8,8 +8,8 @@
 \tabular{ll}{
 Package: \tab PoisBinOrdNor\cr
 Type: \tab Package\cr
-Version: \tab 1.3\cr
-Date: \tab 2017-01-25\cr
+Version: \tab 1.4\cr
+Date: \tab 2017-03-28\cr
 License: \tab GPL-2 | GPL-3 \cr
 }PoisBinOrdNor package consists of ten functions. The function \code{\link{validation_specs}} validates the specificed quantities to avoid obvious specification errors. 
 The functions \code{\link{corr.nn4bb}}, \code{\link{corr.nn4bn}}, \code{\link{corr.nn4on}}, \code{\link{corr.nn4pbo}}, \code{\link{corr.nn4pn}}, and \code{\link{corr.nn4pp}} 
@@ -24,17 +24,18 @@ Hakan Demirtas, Yiran Hu, Rawan Allozi
 
 Maintainer: Rawan Allozi <ralloz2@uic.edu>
 }
-\references{Amatya, A. & Demirtas, H. (2015). Simultaneous generation of multivariate mixed data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, 85(15), 3129-3139.
+\references{
+Amatya, A. & Demirtas, H. (2015). Simultaneous generation of multivariate mixed data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, 85(15), 3129-3139.
+
+Demirtas, H. & Doganay, B. (2012). Simultaneous generation of binary and normal data with specified marginal and association structures. Journal of Biopharmaceutical Statistics, 22(2), 223-236. 
 
 Demirtas, H. & Hedeker, D. (2011). A practical way for computing approximate lower and upper correlation bounds. The American Statistician, 65(2), 104-109. 
 
-Demirtas, H. & Doganay, B. (2012). Simultaneous generation of binary and normal data with specified marginal and association structures. Journal of Biopharmaceutical Statistics, 22(2), 223-236. 
+Demirtas, H. & Hedeker, D. (2016). Computing the point-biserial correlation under any underlying continuous distribution. Communications in Statistics--Simulation and Computation, 45(8), 2744-2751. 
 
 Demirtas, H., Hedeker, D. & Mermelstein, R. J. (2012). Simulation of massive public health data by power polynomials. Statistics in Medicine, 31(27), 3337-3346. 
 
 Demirtas, H. & Yavuz, Y. (2015). Concurrent generation of ordinal and normal data. Journal of Biopharmaceutical Statistics, 25(4), 635-650. 
-
-Demirtas, H. & Hedeker, D. (2016). Computing the point-biserial correlation under any underlying continuous distribution. Forthcoming in Communications in Statistics--Simulation and Computation. 
 
 Ferrari, P.A. and Barberio, A. (2012). Simulating ordinal data. Multivariate Behavioral Research, 47(4), 566-589.
 

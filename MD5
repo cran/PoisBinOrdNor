@@ -1,4 +1,4 @@
-6a306b0eb0ea5cb2a5a14333aa98d63c *DESCRIPTION
+0acf25b6412ae73254a40a152342cca0 *DESCRIPTION
 3d2155dff921e59289732e7f0e8880c0 *NAMESPACE
 fcee73887e5d33aa555f0ea75106dad4 *R/PoisBinOrdNor-internal.R
 dd0f94acfb932bcd8a7bc893fbebc09e *R/corr.nn4bb.R
@@ -10,7 +10,7 @@ d62f83f6825edf89bfebdc8e58a00bcd *R/corr.nn4pp.R
 787016a642025fc096b22da765b01d68 *R/genPBONdata.R
 cee60a53cca3fb25a53e0df74262c232 *R/intermat.R
 08f05bfad38f580420b6faf48bb9b0bc *R/validation_specs.R
-7852eb0582308964d0b8fe113da96f5e *man/PoisBinOrdNor-package.Rd
+263e048cf61c2c4ad4e64ab3ad32c3a1 *man/PoisBinOrdNor-package.Rd
 3ba5e6025b06b0d2b8ca06873a145d52 *man/corr.nn4bb.Rd
 f466705a92269a6231e4140708630dff *man/corr.nn4bn.Rd
 09baf84fc7c86ea7283fa907eb26f2cf *man/corr.nn4on.Rd
@@ -18,5 +18,5 @@ f466705a92269a6231e4140708630dff *man/corr.nn4bn.Rd
 2a85b89e6feab8d3b885f25946be83a0 *man/corr.nn4pn.Rd
 a184b92c04f8105a226d00d5d4596e28 *man/corr.nn4pp.Rd
 dc227d99da2d0a9f84a2d92197125933 *man/genPBONdata.Rd
-0f936d9ecbb2ef9a5cb7ca1290d1c362 *man/intermat.Rd
+6c95e2a342b2d890815a60e2f520f7d0 *man/intermat.Rd
 7ecc030f7138cba4286ddce91d61490c *man/validation_specs.Rd
