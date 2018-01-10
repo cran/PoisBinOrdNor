@@ -2,8 +2,8 @@ Package: PoisBinOrdNor
 Type: Package
 Title: Data Generation with Poisson, Binary, Ordinal and Normal
         Components
-Version: 1.4
-Date: 2017-03-28
+Version: 1.5
+Date: 2018-01-10
 Author: Hakan Demirtas, Yiran Hu, Rawan Allozi
 Maintainer: Rawan Allozi <ralloz2@uic.edu>
 Description: Generation of multiple count, binary, ordinal and normal variables 
@@ -12,5 +12,5 @@ License: GPL-2 | GPL-3
 Depends: Matrix, corpcor, mvtnorm, psych, GenOrd
 NeedsCompilation: no
 Repository: CRAN
-Packaged: 2017-03-28 15:16:26 UTC; rawanallozi
-Date/Publication: 2017-03-28 16:20:55 UTC
+Packaged: 2018-01-10 15:34:41 UTC; rawanallozi
+Date/Publication: 2018-01-10 15:39:51 UTC
