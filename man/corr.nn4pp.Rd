@@ -17,7 +17,7 @@ Amatya, A. & Demirtas, H. (2015). Simultaneous generation of multivariate mixed 
 
 \examples{
 \dontrun{
-corr.nn4pp(0.05, 0.02, 0.34)
+corr.nn4pp(0.5, 2, 0.4)
 }
 }
 

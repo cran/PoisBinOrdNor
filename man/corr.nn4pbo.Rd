@@ -23,7 +23,7 @@ Yahav, I. & Shmueli, G. (2012). On generating multivariate Poisson data in manag
 
 \examples{
 \dontrun{
-corr.nn4pbo(c(0.05, 0.07), c(0.2, 0.5), 0.235)
+corr.nn4pbo(0.5, c(0.2, 0.5), 0.235)
 }
 }
 

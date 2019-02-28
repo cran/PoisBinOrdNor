@@ -12,7 +12,7 @@ corr.nn4pn(lam, PN.cor)
 \value{Correlation of underlying bivariate normal data.}
 \examples{
 \dontrun{
-corr.nn4pn(0.05, 0.32)
+corr.nn4pn(0.5, 0.32)
 }
 }
 

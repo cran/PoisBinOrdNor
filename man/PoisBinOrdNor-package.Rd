@@ -8,10 +8,10 @@
 \tabular{ll}{
 Package: \tab PoisBinOrdNor\cr
 Type: \tab Package\cr
-Version: \tab 1.5\cr
-Date: \tab 2018-01-10\cr
+Version: \tab 1.6\cr
+Date: \tab 2019-02-27\cr
 License: \tab GPL-2 | GPL-3 \cr
-}PoisBinOrdNor package consists of ten functions. The function \code{\link{validation_specs}} validates the specificed quantities to avoid obvious specification errors. 
+}PoisBinOrdNor package consists of ten functions. The function \code{\link{validation.specs}} validates the specificed quantities to avoid obvious specification errors. 
 The functions \code{\link{corr.nn4bb}}, \code{\link{corr.nn4bn}}, \code{\link{corr.nn4on}}, \code{\link{corr.nn4pbo}}, \code{\link{corr.nn4pn}}, and \code{\link{corr.nn4pp}} 
 each computes the intermediate correlation coefficient for binary-binary combinations, binary-normal combinations, ordinal-normal combinations, count-binary/ordinal combinations,
  count-normal and count-count combinations, respectively.
@@ -20,9 +20,9 @@ The function \code{\link{intermat}} assembles the intermediate correlation matri
 The engine function \code{\link{genPBONdata}} computes the final correlation matrix and generates mixed data in accordance with the specified marginal and correlational quantities.
 }
 \author{
-Hakan Demirtas, Yiran Hu, Rawan Allozi
+Hakan Demirtas, Yiran Hu, Rawan Allozi, Ran Gao
 
-Maintainer: Rawan Allozi <ralloz2@uic.edu>
+Maintainer: Ran Gao <rgao8@uic.edu>
 }
 \references{
 Amatya, A. & Demirtas, H. (2015). Simultaneous generation of multivariate mixed data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, 85(15), 3129-3139.

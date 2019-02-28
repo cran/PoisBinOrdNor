@@ -21,7 +21,7 @@
 \value{The intermediate correlation matrix that will be used later for multivariate normal data simulation. }
 
 \seealso{\code{\link{corr.nn4bb}}, \code{\link{corr.nn4bn}}, \code{\link{corr.nn4on}}, \code{\link{corr.nn4pbo}}, 
-\code{\link{corr.nn4pn}}, \code{\link{corr.nn4pp}}, and \code{\link{validation_specs}}.}
+\code{\link{corr.nn4pn}}, \code{\link{corr.nn4pp}}, and \code{\link{validation.specs}}.}
 
 
 \references{

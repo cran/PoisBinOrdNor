@@ -13,7 +13,7 @@ d=n1+n2+n3+n4
 
 if(n1==0 && n2==0 &&n3==0 &&n4==0){stop("Number of variables cannot all be zero!\n")}
 
-validation_specs(n1, n2, n3, n4, corr_mat, p1, p2, lambdavec, normean, norvar)
+validation.specs(n1, n2, n3, n4, corr_mat, p1, p2, lambdavec, normean, norvar)
 
 
 inter.mat=diag(nrow(corr_mat))
