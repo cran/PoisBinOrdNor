@@ -8,14 +8,14 @@
 \tabular{ll}{
 Package: \tab PoisBinOrdNor\cr
 Type: \tab Package\cr
-Version: \tab 1.6\cr
-Date: \tab 2019-02-27\cr
+Version: \tab 1.6.1\cr
+Date: \tab 2019-05-15\cr
 License: \tab GPL-2 | GPL-3 \cr
 }PoisBinOrdNor package consists of ten functions. The function \code{\link{validation.specs}} validates the specificed quantities to avoid obvious specification errors. 
 The functions \code{\link{corr.nn4bb}}, \code{\link{corr.nn4bn}}, \code{\link{corr.nn4on}}, \code{\link{corr.nn4pbo}}, \code{\link{corr.nn4pn}}, and \code{\link{corr.nn4pp}} 
 each computes the intermediate correlation coefficient for binary-binary combinations, binary-normal combinations, ordinal-normal combinations, count-binary/ordinal combinations,
  count-normal and count-count combinations, respectively.
-The function \code{\link{intermat}} assembles the intermediate correlation matrix for the multivaraite data based on input from functions \code{\link{corr.nn4bb}}, 
+The function \code{\link{intermat}} assembles the intermediate correlation matrix for the multivariate data based on input from functions \code{\link{corr.nn4bb}}, 
 \code{\link{corr.nn4bn}}, \code{\link{corr.nn4on}}, \code{\link{corr.nn4pbo}}, \code{\link{corr.nn4pn}} and \code{\link{corr.nn4pp}}. 
 The engine function \code{\link{genPBONdata}} computes the final correlation matrix and generates mixed data in accordance with the specified marginal and correlational quantities.
 }
