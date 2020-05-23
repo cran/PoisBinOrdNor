@@ -8,10 +8,10 @@
 \tabular{ll}{
 Package: \tab PoisBinOrdNor\cr
 Type: \tab Package\cr
-Version: \tab 1.6.1\cr
-Date: \tab 2019-05-15\cr
+Version: \tab 1.6.2\cr
+Date: \tab 2020-05-17\cr
 License: \tab GPL-2 | GPL-3 \cr
-}PoisBinOrdNor package consists of ten functions. The function \code{\link{validation.specs}} validates the specificed quantities to avoid obvious specification errors. 
+}PoisBinOrdNor package consists of nine functions. The function \code{\link{validation.specs}} validates the specificed quantities to avoid obvious specification errors. 
 The functions \code{\link{corr.nn4bb}}, \code{\link{corr.nn4bn}}, \code{\link{corr.nn4on}}, \code{\link{corr.nn4pbo}}, \code{\link{corr.nn4pn}}, and \code{\link{corr.nn4pp}} 
 each computes the intermediate correlation coefficient for binary-binary combinations, binary-normal combinations, ordinal-normal combinations, count-binary/ordinal combinations,
  count-normal and count-count combinations, respectively.
@@ -42,8 +42,4 @@ Ferrari, P.A. and Barberio, A. (2012). Simulating ordinal data. Multivariate Beh
 Yahav, I. & Shmueli, G. (2012). On generating multivariate Poisson data in management science applications. Applied Stochastic Models in Business and Industry, 28(1), 91-102. 
 }
 
-\keyword{concurrent generation of count, binary, ordinal and normal variables}
-\keyword{generating multivariate count variables}
-\keyword{generating multivariate binary variables}
-\keyword{generating multivariate ordinal variables}
-\keyword{generating multivariate normal variables}
+
