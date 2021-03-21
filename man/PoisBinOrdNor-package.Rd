@@ -8,8 +8,8 @@
 \tabular{ll}{
 Package: \tab PoisBinOrdNor\cr
 Type: \tab Package\cr
-Version: \tab 1.6.2\cr
-Date: \tab 2020-05-17\cr
+Version: \tab 1.6.3\cr
+Date: \tab 2021-03-21\cr
 License: \tab GPL-2 | GPL-3 \cr
 }PoisBinOrdNor package consists of nine functions. The function \code{\link{validation.specs}} validates the specificed quantities to avoid obvious specification errors. 
 The functions \code{\link{corr.nn4bb}}, \code{\link{corr.nn4bn}}, \code{\link{corr.nn4on}}, \code{\link{corr.nn4pbo}}, \code{\link{corr.nn4pn}}, and \code{\link{corr.nn4pp}} 
